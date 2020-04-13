@@ -1,0 +1,5 @@
+com\discount\customer\CustomerStrategy.class
+com\discount\customer\RegularCustomer.class
+com\discount\customer\DiscountContext.class
+com\discount\main\App.class
+com\discount\customer\PremiumCustomer.class
